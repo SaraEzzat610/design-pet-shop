@@ -1,0 +1,64 @@
+@media only screen and (max-width:1024px) {
+/*start nav and logo*/
+#container{
+    width:1200px;
+    margin:0 auto;
+}
+.logopic{
+    width:90px;
+    height:90px;
+    float: left;
+}
+.search-products{
+    float: left;
+    margin-left:840px;
+     margin-top:20px;
+}
+.nav{
+    float: left;
+    margin-left: 590px;
+}
+.nav a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 20px;
+    padding: 5px;
+}
+/*end nav and logo*/
+/*contact start*/
+.firstpic{
+    width: 900px;
+    height: 400px;
+}
+.paragraph{
+    margin-left: 75px;
+    margin-top: -365px; 
+}
+.span{color: green;}
+.form{
+    border:5px solid black;
+    padding:15px;
+    margin-left:600px;
+    width:185px;
+    margin-top:-400px;
+}
+/*contact end*/
+/* footer start */
+footer{
+    background-color: green;
+}
+.ftext{
+  
+    margin-left:470px;
+    color:black;
+}
+.fparagraph{
+    
+    margin-left:470px;
+    color: white;
+}
+.fpic{
+    margin-left:620px;
+    margin-top:-40px;
+}
+/* footer end */}
