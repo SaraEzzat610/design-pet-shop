@@ -1,0 +1,174 @@
+/*start nav and logo*/
+#container{
+    width:1200px;
+    margin:0 auto;
+}
+.logopic{
+    width:90px;
+    height:90px;
+    float: left;
+}
+.search-products{
+    float: left;
+    margin-left:840px;
+     margin-top:20px;
+}
+.nav{
+    float: left;
+    margin-left: 590px;
+}
+.nav a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 20px;
+    padding: 5px;
+}
+/*end nav and logo*/
+/*home start*/
+.banner{
+    margin-top: 30px;
+    width:1200px;
+    height:600px;
+}
+.span{
+    color:green;
+    
+}
+.welcome{
+    float: left;
+    color:grey;
+}
+.img2{
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 250px;
+}
+.product{
+    font-size: 30px;
+    text-align: center;
+    color: green;
+    line-height: 1px;
+}
+.paragraph-products{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+.img3{
+    width:1000px;
+   text-align: center;
+}
+.img4{
+   margin-left:230px; 
+}
+/*home end*/
+/*about us start*/
+.pic{
+    height: 500px;
+    width: 1000px;
+}
+.title{
+    color: green;
+    text-align: center;
+}
+.text{text-align: center;}
+/*about us end*/
+/*shope start*/
+.banner{
+    width: 900px;
+    height: 500px;
+    margin-left: 100px;
+}
+.photo{
+    margin-left: 110px;
+}
+.nav2{
+    background-color: green;
+    word-spacing: 50px;
+    /* float: left; */
+    margin: auto;
+    padding: 20px;
+    text-decoration: none;
+}
+.nav a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 20px;
+    padding: 5px;
+}
+/*shope end*/
+/*brands start*/
+.brandsA{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.brandsB{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+.brandsC{
+    width: 330px;
+    height: 350px;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+.brandsD{
+    width: 300px;
+    height: 300px;
+    margin-bottom: -10px;
+    margin-left: 400px;
+}
+.brandsE{
+    width: 330px;
+    height: 300px;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+.brandsF{
+    width: 300px;
+    height: 300px;
+    margin-bottom: -10px;
+    margin-left: 400px;
+}
+/*brands end*/
+/*contact start*/
+.firstpic{
+    width: 900px;
+    height: 400px;
+}
+.paragraph{
+    margin-left: 75px;
+    margin-top: -365px; 
+}
+.span{color: green;}
+.form{
+    border:5px solid black;
+    padding:15px;
+    margin-left:600px;
+    width:185px;
+    margin-top:-400px;
+}
+/*contact end*/
+/* footer start */
+footer{
+    background-color: green;
+}
+.ftext{
+  
+    margin-left:470px;
+    color:black;
+}
+.fparagraph{
+    
+    margin-left:470px;
+    color: white;
+}
+.fpic{
+    margin-left:620px;
+    margin-top:-40px;
+}
+/* footer end */
